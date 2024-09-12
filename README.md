@@ -1,5 +1,5 @@
 Hi there 👋
-Welcome to my GitHub profile! I’m [Your Name], a passionate [Your Profession or Role] with a keen interest in [Your Interests or Specializations]. Here’s a little bit about what I’m up to and how you can connect with me:
+Welcome to my GitHub profile! I’m sarmad abbasi, a passionate [Your Profession or Role] with a keen interest in [Your Interests or Specializations]. Here’s a little bit about what I’m up to and how you can connect with me:
 
 🔭 Currently Working On
 I’m actively engaged in [Current Projects or Work]. My focus areas include [Specific Technologies, Languages, or Fields]. Feel free to explore my repositories to see the latest developments!
